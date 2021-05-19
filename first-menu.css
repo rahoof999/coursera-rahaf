@@ -8,11 +8,11 @@ h1{
 }
 
 p {
-  background-color: #bfbfbf;
   border: 3px solid black;
   height: 150px;
   margin-right: 10px;
-  padding: 40px 10px 5px 10px;
+  padding: 43px 10px 5px 10px;
+  background-color: gray;
   overflow: scroll;
 font-family:Comic Sans MS, Comic Sans, cursive;
 }
@@ -23,41 +23,41 @@ font-family:Comic Sans MS, Comic Sans, cursive;
   
 }
 
-#p1 {
-  background-color: #D59898;
+#Chicken {
   position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 40px;
-  width: 120px;
+  height: 43px;
+  width: 130px;
   padding: 10px;
   text-align: center;
+  background-color: #D69799;
    font-family:Comic Sans MS, Comic Sans, cursive;
 
 }
-#p2 {
-  background-color:#C14543 ;
+#Beef {
   color: white;
   position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 40px;
-  width: 120px;
+   background-color:#C14744 ;
+  height: 43px;
+  width: 130px;
   padding: 10px;
   text-align: center;
   font-family:Comic Sans MS, Comic Sans, cursive;
 
 }
-#p3 {
- background-color: #E5D198;
+#Sushi {
+ background-color: #E5D799;
   position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 40px;
-  width: 120px;
+  height: 43px;
+  width: 130px;
   padding: 10px;
   text-align: center;
   font-family:Comic Sans MS, Comic Sans, cursive;
